@@ -26,3 +26,6 @@ The goal of this certification was to build practical experience working with No
 
 ## Trello
 https://trello.com/b/MzZMrmpC/back-end-development-apis-daily-board
+
+## FreeCodeCamp Profile
+https://www.freecodecamp.org/nkosinathitshabalala
