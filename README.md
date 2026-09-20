@@ -23,3 +23,6 @@ This repository contains my projects and exercises completed during the freeCode
 
 ## Purpose:
 The goal of this certification was to build practical experience working with Node.js and Express to design, build, and secure back-end APIs, and to strengthen my full-stack development skills.
+
+## Trello
+https://trello.com/b/MzZMrmpC/back-end-development-apis-daily-board
